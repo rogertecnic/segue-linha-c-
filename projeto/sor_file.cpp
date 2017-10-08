@@ -16,5 +16,10 @@
  * alteracoes locais feitas para conflitar com o segundo commit feito online no github
  */
 /*
+
 * segunda alteracao feita pelo github online
 */
+
+/*
+ * alteracao local em uma posicao do documento diferente
+ */
