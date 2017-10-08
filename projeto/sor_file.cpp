@@ -1,3 +1,4 @@
+// 1 criei online antes
 /*
  * sor_file.cpp
  *
@@ -6,3 +7,4 @@
  *
  *      criei este arquivo pelo eclipse
  */
+ // 2 criei online depois
