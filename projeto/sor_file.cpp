@@ -1,8 +1,0 @@
-/alterei local
-/
-/
-/
-/
-/
-/
-/alterei online
