@@ -27,3 +27,9 @@
 /*
  * alteracao local em uma posicao do documento diferente
  */
+
+
+
+/*
+ * alterei local depois de ter apagado tudo online, supostamente em locais diferentes
+ */
